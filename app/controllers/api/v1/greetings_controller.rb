@@ -8,8 +8,9 @@ module Api
         random_number = rand(1..5)
         # return a random greeting
         @greeting = Greeting.find(random_number)
+        # return json response
         return json_response(@greeting) if @greeting
-        
+        # return error if no greeting found
         json_response({ message: 'No Greeting Found' }, :not_found)
       end
 
