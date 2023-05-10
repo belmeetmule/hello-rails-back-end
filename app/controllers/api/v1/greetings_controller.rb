@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # Greetings Controller for API
 module Api
   module V1
