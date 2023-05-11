@@ -6,8 +6,10 @@ module Api
       def index
         # generate random number between 1 and 5
         random_number = rand(1..5)
+
         # return a random greeting
         @greeting = Greeting.find(random_number)
+
         # return json response
         return json_response(@greeting) if @greeting
 
