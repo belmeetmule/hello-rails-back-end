@@ -27,7 +27,7 @@
 
 # 📖 **Hello React Backend** <a name="about-project"></a>
 
-**Hello React Backend** is a practice project that serves as a backend for the <a href="https://github.com/belmeetmule/hello-react-front-end">Hello React Front End</a>. These two projects are part of a single project that is a fullstack random message web app. 
+**Hello React Backend** is a practice project that serves as a backend for the <a href="https://github.com/belmeetmule/hello-react-front-end/tree/features">Hello React Front End</a>. These two projects are part of a single project that is a fullstack random message web app. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -36,7 +36,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://github.com/belmeetmule/hello-react-front-end">hello-react-front-end</a></li>
+    <li><a href="https://github.com/belmeetmule/hello-react-front-end/tree/features">hello-react-front-end</a></li>
   </ul>
 </details>
 
